@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/elive/OneDrive/Área de Trabalho/ED1/Trabalho de Implementação 02 - Cofo Generico",
-      "program": "c:/Users/elive/OneDrive/Área de Trabalho/ED1/Trabalho de Implementação 02 - Cofo Generico/build/Debug/outDebug",
+      "cwd": "c:/Users/elive/OneDrive/Área de Trabalho/TAD-02-COFO-GENERICO/arquivos",
+      "program": "c:/Users/elive/OneDrive/Área de Trabalho/TAD-02-COFO-GENERICO/arquivos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
